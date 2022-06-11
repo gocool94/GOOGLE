@@ -1,4 +1,4 @@
-package Day_1;
+package Challenges_1_Module;
 
 public class Challenge_10_Equality_printer {
 

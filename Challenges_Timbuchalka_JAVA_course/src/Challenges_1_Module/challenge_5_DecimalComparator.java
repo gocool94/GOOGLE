@@ -1,4 +1,4 @@
-package Day_1;
+package Challenges_1_Module;
 
 public class challenge_5_DecimalComparator {
 
