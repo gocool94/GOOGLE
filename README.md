@@ -14,7 +14,7 @@ Rules:
     - 1 * Hackerank/leetcode Question solve per day (atleast)
     
     
-NOTE :- Ultimate AIM is to reach google
+NOTE > Ultimate AIM is to reach google
 
 # Starting Date -> 13th June 2022
 
