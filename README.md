@@ -1,4 +1,7 @@
-# GOOGLE
+
+
+![Dream GOOGLE](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2560px-Google_2015_logo.svg.png)
+
 
 
 Rules:
@@ -15,6 +18,6 @@ NOTE :- Ultimate AIM is to reach google
 
 # Starting Date -> 13th June 2022
 
- # Week -  1
+ ## Week -  1
 
 
