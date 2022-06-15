@@ -11,7 +11,7 @@ public class Challenge_41_1_Arrays {
         int[] Array_list = getIntegers(InputNumbers);
 
 
-        printArray(SortedIntegers(Array_list));
+        System.out.println(Arrays.toString(SortedIntegers(Array_list)));
 
         /*
          // Create a program using arrays that sorts a list of integers in descending order.
