@@ -24,3 +24,6 @@ NOTE > Ultimate AIM is to reach google
 ## The Second wave starts from 25/7/2023
 
 ## Day 1:
+
+    - Started with Problem solving, Completed basic problems in GFG
+    - Factorial,Palindrome & Digit checking problems done.
